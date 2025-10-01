@@ -12,7 +12,8 @@ This tutorial outlines the steps to create and configure resource groups and vir
 
 <h2>Step By Step</h2>
 
-![Untitled image (7)](https://github.com/user-attachments/assets/6b3df1fd-8833-4c80-bb45-3b4cec1c777c)
+<img width="1500" height="1438" alt="azure_rg_vm_steps1-2_fixed_title" src="https://github.com/user-attachments/assets/24cd991d-f792-4926-90ad-aa70a1d7a7ab" />
+
 
 
 
